@@ -4,6 +4,7 @@ const ASSETS = [
   '/brainbuddy/index.html',
   '/brainbuddy/favicon-32x32.png',
   '/brainbuddy/icon-192.png',
+  '/brainbuddy/icon-512.png',
   '/brainbuddy/boy.png',
   '/brainbuddy/manifest.json'
 ];
