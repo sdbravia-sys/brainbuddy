@@ -40,7 +40,7 @@ self.addEventListener('fetch', (event) => {
       });
     }).catch(() => {
       // Fallback for offline if needed
-      return caches.match('/');
+      return caches.match('/brainbuddy/');
     })
   );
 });
