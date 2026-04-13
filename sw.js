@@ -1,11 +1,11 @@
 const CACHE_NAME = 'brain-buddy-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/favicon-32x32.png',
-  '/icon-192.png',
-  '/boy.png',
-  '/manifest.json'
+  '/brainbuddy/',
+  '/brainbuddy/index.html',
+  '/brainbuddy/favicon-32x32.png',
+  '/brainbuddy/icon-192.png',
+  '/brainbuddy/boy.png',
+  '/brainbuddy/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
