@@ -2,7 +2,7 @@
   "name": "Brain Buddy - ICSE Class 5 Study Companion",
   "short_name": "Brain Buddy",
   "description": "Interactive study companion for ICSE Class 5 students with notes, quizzes, and worksheets.",
-  "start_url": "/",
+  "start_url": "/brainbuddy/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
